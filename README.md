@@ -1,2 +1,3 @@
 # RESTAURANT-BILLING-SYSTEM
 This my first Git Repository of my project using c language
+Author - K.Santosh
